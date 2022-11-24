@@ -1,3 +1,25 @@
 body {
   font-family: sans-serif, arial;
 }
+
+.search-text {
+  margin-top: 5px;
+  width: 20%;
+  height: 30px;
+}
+
+.search-btn {
+  margin-top: 10px;
+  width: 10%;
+  height: 30px;
+}
+
+.search-text .btn:hover {
+  border-color: #c6c6c6;
+  background: #f0f0f0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.10);
+}
+
+.input-bar {
+  padding-top: 10px;
+}
